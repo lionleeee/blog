@@ -9,7 +9,7 @@ export const metadata = {
   description: 'lionlee.com',
   openGraph: {
     title: '이정훈의 블로그',
-    description: 'hajoeun.com',
+    description: 'lionlee.com',
     url: 'https://lionlee.com',
     siteName: '이정훈 블로그',
   },
